@@ -1,8 +1,8 @@
 {
   "name": "rockets-relay",
   "version": "1.0.0",
-  "main": "server.js",
-  "scripts": { "start": "node server.js" },
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
   "engines": { "node": ">=16" },
   "dependencies": { "ws": "8.18.0" }
 }
